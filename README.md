@@ -53,7 +53,7 @@ Each bowler is evaluated based on the following:
 
 ## Contact
 
-If you want to discuss the project, give feedback, or explore ideas in cricket analytics, feel free to reach out!
+If you want to discuss the project, give feedback, or explore ideas in cricket analytics, feel free to reach out:
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [LinkedIn](https://www.linkedin.com/in/aaditpahuja)
 - 📧 aaditpahuja@gmail.com
